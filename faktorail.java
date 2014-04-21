@@ -22,6 +22,3 @@ class faktorial
         System.out.println("Hasil Faktorial = "+hasil);
     }
 }
-
-
-Read more: http://thedewaku.blogspot.com/2012/10/program-sederhana-menghitung-permutasi-dengan-java.html#ixzz2zW98nreN
